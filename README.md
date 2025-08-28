@@ -1,11 +1,14 @@
-# 📝 SimpleTodo List - Java Console Application
+# 📝 SimpleTodo List - Java code
 
-This is a simple Java console application that allows users to manage a todo list. You can add, view, and delete tasks from your list—all from the terminal!
+This is a simple Java code, this repository contains a simple Java program for beginners.
+It demonstrates basic concepts of Java such as classes,methods, and input/output.
 
 ## 🚀 Features
 
 - Add tasks
 - View all tasks
 - Delete tasks
-- Simple command-line interface
-- No external dependencies
+
+##Output Screebshot
+  ![Code Screenshot]
+  (smple%20screenshot(3).jpg)
