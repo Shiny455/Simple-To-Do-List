@@ -11,4 +11,4 @@ It demonstrates basic concepts of Java such as classes,methods, and input/output
 
 ##Output Screebshot
   ![Code Screenshot]
-  (smple%20screenshot(3).jpg)
+  (smple%20screenshot(3).jpg).
